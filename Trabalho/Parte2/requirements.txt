@@ -3,3 +3,4 @@ numpy
 gdown
 seaborn
 pyspark
+requests
