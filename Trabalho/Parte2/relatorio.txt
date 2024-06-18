@@ -1,10 +1,37 @@
-Este relatório fornece uma análise detalhada dos dados de licenciamento urbanístico. A análise inclui a distribuição de diferentes categorias, a situação dos processos, o impacto dos empreendimentos, entre outros aspectos relevantes.
+Relatório de Análise dos Processos de Licenciamento Urbanístico na Cidade do Recife
 
-A distribuição por categoria de empreendimento revela que uma porcentagem significativa dos empreendimentos se encontra na categoria comercial, seguida pela categoria residencial e industrial. A situação dos processos mostra que muitos processos estão concluídos, enquanto outros ainda estão em andamento ou pendentes. Quanto ao impacto dos empreendimentos, uma parte considerável é classificada como empreendimentos de impacto. A distribuição geográfica indica que os principais bairros com empreendimentos são o Bairro A, Bairro B e Bairro C.
+Este relatório foi feito a partir dos dados fornecidos pelo Dados Recife, sobre os processos
+de licenciamento urbanístico realizados na cidade do Recife, que estão 100% digitalizados desde
+o ano de 2017. O objetivo deste relatório é captar insights a partir dos resultados das análises do
+dataset, proporcionando uma visão clara sobre os processos e suas características.
 
-A análise temporal da emissão de licenças por ano mostra uma tendência de crescimento ou declínio ao longo do tempo, representada graficamente para melhor visualização. O tempo médio para a conclusão dos processos também foi analisado, revelando o tempo que os processos levam desde a entrada até a conclusão.
+Insights Principais
 
-A análise financeira dos valores de taxas mostra a distribuição dos valores cobrados, com média, mediana e desvio padrão calculados. Também foram analisados os valores pagos pelos empreendedores, oferecendo uma visão sobre o aspecto financeiro do licenciamento urbanístico.
+Processos Deferidos e Indeferidos:
+Foi percebido que o número de processos indeferidos era superior aos deferidos, representando 42% dos 77.967
+processos analisados. Este dado sugere que uma parcela significativa dos projetos submetidos não atende aos
+critérios exigidos ou possui pendências que impedem a sua aprovação.
 
-Este relatório fornece uma visão abrangente sobre o estado atual dos licenciamentos urbanísticos. A análise dos dados revela padrões importantes e pode auxiliar na tomada de decisões para melhorar o processo de licenciamento. Recomenda-se a automatização de processos para reduzir o tempo de conclusão dos processos, aumentar a transparência nas etapas de licenciamento para facilitar o acompanhamento e oferecer suporte adicional para empreendedores em áreas de alto impacto.
+Distribuição Geográfica dos Processos:
+O bairro de Boa Viagem, localizado na zona sul da cidade, foi o que mais teve ocorrências de licenciamento
+urbanístico. Os outros dois bairros com maiores índices também estão na mesma zona. Isso pode indicar que, por
+esta região ser considerada com maior concentração de riqueza, há um investimento financeiro superior em relação
+às outras zonas da cidade. Este fenômeno reflete a dinâmica socioeconômica e a valorização imobiliária da zona sul
+de Recife.
 
+Custos das Taxas de Licenciamento:
+Em relação aos valores, a taxa média de licenciamento custava R$ 734,82. Este valor médio dá uma ideia dos custos
+envolvidos para os empreendedores que buscam regularizar seus projetos urbanísticos na cidade.
+
+Tempo de Aprovação:
+O tempo médio de aprovação dos projetos é de aproximadamente 44,33 dias. Este dado é crucial para os empreendedores,
+pois oferece uma perspectiva sobre o prazo necessário para a obtenção de licenças e pode impactar no planejamento e execução dos projetos.
+
+Conclusões
+A análise dos dados de licenciamento urbanístico do Recife revela tendências importantes sobre a distribuição geográfica dos processos, os custos
+envolvidos e os tempos de aprovação. A predominância de processos na zona sul da cidade, especificamente em bairros como Boa Viagem, reflete a concentração
+de investimentos e o desenvolvimento urbano nesta área. A taxa média e o tempo de aprovação são indicadores valiosos para compreender a eficiência e os custos
+do processo de licenciamento na cidade.
+
+Os dados fornecidos podem servir como base para futuras análises e planejamento estratégico, tanto para o setor público quanto para os investidores privados, com
+o intuito de melhorar a eficiência dos processos e promover um desenvolvimento urbano equilibrado e sustentável.

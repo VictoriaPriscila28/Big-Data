@@ -4,3 +4,4 @@ gdown
 seaborn
 pyspark
 requests
+pymongo
